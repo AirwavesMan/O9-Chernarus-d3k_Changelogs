@@ -1,0 +1,9 @@
+Changelog: v.1.10.00
+
+- The WA2000 can now also be sold.
+- The 6Rnd smoke, flare and explosive grenades can now be bought from the trader.
+- Mission AIs may have information for the location of the black market trader in their equipment.
+- The 45k spawn did not work properly. This has been fixed.
+- The tools in the spawn gear have been updated.
+- The convoy rule has been updated.
+- AI missions now have a smaller radius to check for nearby bases, so some spawn points on the map should be used more often again. Note: The spawn of missions is dynamic, which means that we have little influence on where missions spawn. If missions appear only north, then other points on the map are occupied, because e.g. players are nearby, a base is there or another mission is too close.

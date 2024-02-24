@@ -1,0 +1,6 @@
+Changelog: v.1.10.01
+
+- Some spawn gear variants had the wrong secondary weapon. This has been fixed.
+- The HMMWV Mk19 Desert Camouflage can now be sold at the Hero Trader.
+- The construction of the metal tower should now no longer catapult the player into the air.
+- A new rule has been added. It is not allowed to use squad.xmls from now on.

@@ -1,0 +1,4 @@
+Changelog: v.1.10.02
+
+- Static weapons no longer have a godmode.
+- The zombie shield in the base now works again.
