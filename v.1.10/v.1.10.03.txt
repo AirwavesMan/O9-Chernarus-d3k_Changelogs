@@ -1,0 +1,9 @@
+Changelog: v.1.10.03
+
+- The taming of dogs has been deactivated, as it is extremely buggy.
+- The convoys now spawn randomly on the map and have more spawn points.
+- Players can no longer build on the road. This change is necessary so that convoys can drive on the roads without problems.
+- The rules for claiming missions and convoys have been updated and expanded.
+- Players who are already registered in a plot pole or have their own plot pole can no longer be registered in another plot pole.
+
+This is just the start of some changes to the base concept. We don't want players who have played together in a group from the beginning to disregard the rule of one plot.
