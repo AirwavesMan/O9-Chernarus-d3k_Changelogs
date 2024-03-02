@@ -1,1 +1,13 @@
 Changelog: v.1.11.00
+
+- The Bank Coins have been deactivated. All existing bank coins have been transferred to the player's coins. Nothing has been lost.
+- The bank coin icon has been removed.
+- The function to deposit bank coins via smartphone has been removed.
+- ATMs and NPCs can no longer deposit coins into the bank.
+- The ammunition for the Stryker with mortar can now be purchased from the Super Hero.
+- The GRAD's ammunition now functions correctly after the GRAD has been rearmed or parked out of the virtual garage.
+- Helipads can now be removed directly by right-clicking on the crowbar.
+- Crafting hemp plants will be temporarily removed as the feature is being completely rewritten.
+- The Air Control Tower and the Warehouse can now be dismantled by right-clicking on the crowbar.
+- The plot pole can only be removed if the number of objects in the radius of the plot pole does not exceed the own object limit.
+- The smartphone has been removed from the Spawn Gear as it is no longer required for the time being.
