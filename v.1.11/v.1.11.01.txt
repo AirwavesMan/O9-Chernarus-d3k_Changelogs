@@ -1,0 +1,4 @@
+Changelog: v.1.11.01
+
+- Gamling at the vending machines was not working. This has been fixed.
+- The elevators are now working again.
