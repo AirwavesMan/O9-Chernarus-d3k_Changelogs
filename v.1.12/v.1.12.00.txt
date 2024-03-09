@@ -1,0 +1,21 @@
+Changelog: v.1.12.00
+
+- Convoi kills now also count as bandit kills
+- The option to maintain single building parts has been removed as it is no longer needed.
+- The plot management has been reworked.
+- The maintain function of the base has been updated and now always maintains all building parts.
+- The Warehouse no longer spawns loot and zombies, as it was intended from the start.
+- The AH1Z_DZE has been exchanged with the AH1Z from Arma 2.
+- Doors, gates, safes and lock boxes can now be closed from the plot pole.
+- 5 missing weapons have been added to the trader.
+- It is now also possible to spawn vehicles via the virtual garage at the fuel stations and not just park them.
+- Trap building has been disabled as this is not a PVP server.
+- The pilot of the Wildcat now has a KPVT as a weapon.
+- Run-over AIs no longer have weapons.
+- It is now possible for players to access their virtual garage anywhere, even if they are not registered in a plot pole. Note: Players can still only access their own virtual garage and not that of the plot owner.
+- Vehicles that can be deployed no longer spawn on the map, no longer spawn during missions and can no longer be sold.
+- Vehicles that are deployed can no longer be refueled, repaired or disassembled.
+- Several extensions to the map have been removed. This was necessary because almost all map extensions were poorly optimized.
+- The trader city of Stary has been completely overhauled.
+- Gambling has been completely reworked.
+- There is now a jackpot in gambling. Each attempt increases the jackpot by 3,000 coins.
