@@ -1,0 +1,15 @@
+Changelog: v.1.13.00
+
+- The trader Stary now also has a Service Point.
+- All petrol stations on the map that have access to the virtual garage now also have a fixed spawn point for vehicles from the virtual garage.
+- Flags must now be bought and can no longer be built by right-clicking on the toolbox.
+- The deploy system has been overhauled.
+- Players who are already registered in a plot pole can no longer set up their own plot pole.
+- The plot pole can no longer be removed if the player who wants to remove the plot pole is already registered in another plot pole.
+- Vehicles with living AIs can no longer be lifted or towed.
+- 2 missing weapons were added to the traders.
+- The elevators were not working properly. This has been solved again.
+- The action menu did not work either. This has also been fixed.
+- The tool breaking has been disabled
+
+With the changes to the plot pole, we want to achieve several things. Firstly, we want to prevent the construction of several bases. Players who play closely together should have one core base and not each their own. We understand that many players still want to keep their own base, and we will not take action against this. In the coming updates, only players who are registered in the plot pole will be able to open the base doors. Furthermore, we will remove players who are duplicated in plot poles from these plot poles. This change will be added over the next few weeks. The second important point for these changes is the network performance. Door management and the storage of the associated player names and IDs on each door has a major impact on network performance. This leads to lags and rubberbanding on a server with many players. The elimination of door management gives us more leeway in network performance. And don't worry, you won't have to enter any door codes afterwards. If you have any questions about these changes, please post a ticket in the Discord.
