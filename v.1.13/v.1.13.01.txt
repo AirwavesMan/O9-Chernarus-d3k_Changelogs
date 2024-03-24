@@ -1,0 +1,5 @@
+Changelog: v.1.13.01
+
+- The Mozzie now has grenades again after being deployed.
+- Gems now have a higher sell price.
+- The slaughtering of corpses has been deactivated as it currently serves no purpose.
