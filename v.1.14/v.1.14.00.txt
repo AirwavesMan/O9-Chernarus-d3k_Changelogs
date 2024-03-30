@@ -1,0 +1,24 @@
+Changelog: v.1.14.00
+
+- After completing a mission, all mines should despawn immediately and no longer explode if a player enters the mission area very quickly with a vehicle, such as a helicopter.
+- After the explosion of a mine in the minefield during a mission, there was a high chance that the mines were not deleted after completing a mission. This has been fixed.
+- Helipads can no longer be removed via the virtual garage. Use the crowbar to do this.
+- When removing a helipad, the player now always gets the helipad back.
+- If the player is holding the crowbar in his hand, the crowbar now also has all right-click options, just like the crowbar on the belt.
+- Players can now log out normally via ESC at the trader city.
+- AI missions should no longer have invisible AIs.
+- The Door management has been removed. Players must be registered in the plot marker to be able to open doors.
+- Carpets can now be removed with a crowbar.
+- The diary has been removed from the J button.
+- Garage doors can no longer be opened via the scroll menu when the player is in a vehicle.
+- The J key can now be used to open the garage doors of your own base when the player is driving a vehicle.
+- Door codes have been removed as they are no longer needed.
+- Convoy AIs now have missile launchers.
+- An additional loot crate can now be found in sector B. There are 4 crates per server restart in the sector.
+- The loot boxes in the sector now spawn at different locations per server restart.
+- The loot in the sector has been revised. Please remember that chance still plays a role.
+- The AIs in the sector now all have the same skin and no longer wear backpacks.
+- The units in the sector have been updated. Be careful on your next visit.
+- The loot of the mission: President's in Town has been slightly adjusted.
+- The Stryker Mortar ammo has been fixed.
+- The 2B14 82mm Mortar got replaced with the M120 Mortar.
