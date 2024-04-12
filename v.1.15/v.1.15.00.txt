@@ -1,0 +1,18 @@
+Changelog: v.1.15.00
+
+- The prices for rocket launchers and rocket launcher ammunition have been significantly increased in terms of sales price and purchase price.
+- The Grad and the Stryker with mortar were greatly increased in purchase and sale price.
+- AIs have a 5% chance of having the rocket launcher or rocket launcher ammunition in their inventory when they die.
+- The AI helicopters in sector B no longer fly over the entire map.
+- AI helicopters that should fly too far out of sector B are now deleted.
+- Boats can now be towed away.
+- Convoy markers are now always displayed, even when the AI is in combat. The change was necessary to be able to find hidden convoy AIs.
+- Players can no longer loot the corpses of other players who are not in their group.
+- Players can no longer examine the wallets of player corpses, as this is no longer needed.
+- Players can no longer bury the corpses of other players if they are not in the same group.
+- The rules for claiming AI missions have been clarified. Please read all the rules again.
+- Convoys in the Safe Zone are now deleted together with all AIs.
+- AIs no longer have anti-aircraft missile launchers. Instead, they have many new anti-tank missile launchers.
+- The minefields at the AI missions have been deactivated.
+- It is no longer possible to buy the Czech backpack and then sell it at a profit.
+- The timeout between missions has been reduced from 30 minutes to 10 minutes. This ensures a much faster changeover if certain missions do not want to be done.
