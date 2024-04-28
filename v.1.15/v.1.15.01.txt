@@ -1,0 +1,8 @@
+Changelog: v.1.15.01
+
+- Camouflage nets can now be removed again.
+- When burying corpses, the wallet is now also checked directly.
+- If no cameras were found when using the surveillance camera notebook, no further actions could be performed in the game. This has been fixed.
+- The commander in the Warrior now has an M240 MG.
+- The M120 mortar should now always receive the correct ammunition when reloading.
+- Players who are sitting in an aircraft as a pilot and have a disconnect now activate the Heli-Guard on disconnect, which brings the helicopter or airplane safely to the ground, provided the aircraft does not yet have broken rotors and engines.
