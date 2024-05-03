@@ -1,0 +1,7 @@
+Changelog: v.1.15.02
+
+- AI helicopters that are 2500m outside the sector are now deleted within a maximum of 5s and no longer 60s.
+- Every AI helicopter in the sector now has a 70% chance of spawning at all. A total of 8 helicopters can spawn.
+- The skill of the AI helicopters in the sector is now completely random. From easy to very difficult. Previously, the skill was always very difficult.
+- AI missions can now be completed at 800m when the percentage of AIs to kill has been reached. This fixes the problem with AIs running away.
+- The player now always receives the key to the vehicle when they pick it up from the virtual garage, unless they already have the key in their inventory. This should make lost keys less of a problem.
