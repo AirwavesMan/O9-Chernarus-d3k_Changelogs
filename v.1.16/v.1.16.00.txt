@@ -1,0 +1,17 @@
+Changelog: v.1.16.00
+
+- Blood bags can be sold again.
+- The distance at which an AI mission could be completed has been reduced from 800m to 500m.
+- The percentage with which AI missions could be completed was increased from 80% to 95%.
+- When entering a safe zone, it is now indicated that vehicles that remain in the safe zone for the server restart will be teleported to the parking zone.
+- Vehicles that have been deployed, purchased or retrieved from the virtual garage can only be entered or looted in the Safe Zone by the owners of the vehicles. This also prevents the theft of vehicles.
+- Melee weapons are no longer dropped on the ground in the Safe Zone.
+- The size of the Safe Zones can now be viewed on the map using the Safe Zone marker.
+- Players' vehicles should no longer take damage from other players or receive very little damage.
+- The Bloodsuckers have been removed, as voted in the Discord.
+- Sector helicopters now only have a 70% chance of spawning in the sector. This makes the sector a little more dynamic.
+- A convoy that has been attacked will no longer move on. It must be fought and conquered on the spot. This change was voted on in the Discord.
+- Paratroopers on AI missions should no longer flee the mission.
+- Convoys AIs now leave the convoy directly when fired upon and no longer individually.
+- Static weapons can no longer be destroyed directly by players at foreign bases. It is still possible for the static weapon to be destroyed when used by other players.
+- Convoys are now marked with a number on the map. This number is now required to mark a convoy on the map. The convoy claim rule has been adjusted accordingly.
