@@ -1,0 +1,17 @@
+Changelog: v.1.17.00
+
+- Locked vehicles without keys can no longer be claimed.
+- Some attack helicopters that were too powerful were removed from the sector.
+- Players with names containing special characters can no longer join the server. You will be prompted to change the name in the loading screen. The reason for this change is that these players cannot be addressed by name in the game chat, as their name is displayed halfway or not at all. Furthermore, no database entry can be created for some of these players, which means that they keep losing their game progress.
+- Players who have installed the Arma 2 OA beta patch can no longer join the server. The Arma 2 OA beta patch is outdated and causes problems with the weapons and the behavior of the AIs for these players.
+- The group management has been revised and the player markers are now part of it.
+- Players can now also spawn on their group members.
+- Players should now always automatically join the last group after death or after a re-log.
+- When a player receives a group invitation, a sound is now played.
+- Vehicles with dead AIs can now be flipped.
+- Vehicles with passengers can no longer be claimed.
+- Players can now release vehicles in the Safe Zone so that other players can use them.
+- Players who enter another player's vehicle in the safe zone and are kicked out again can no longer sell this vehicle or park it in their own virtual garage.
+- The plot pole now has an option to pack up the entire base except for the plot pole, safes and lock cases. This dismantles the entire base and all components are refunded. The base move should now be much easier.
+- The Air and Elite trader now also has a Service Point Station.
+- In addition to the crates, there are now 3 vehicles in the sector, each of which has a 50% chance of spawning in the sector and can be looted after completing the sector.
