@@ -1,0 +1,34 @@
+Changelog: v.1.18.00
+
+- The document for the wooden ramp can now be bought or sold at the trader.
+- The document can now be sold at the trader.
+- Players should no longer join a foreign group after logging in.
+- After death, players rejoin the group they were in before death.
+- The group tags should no longer disappear after a while.
+- Players can now actually join and spawn with their groups from the spawn menu.
+- Not full antibiotics and painkillers can now also be sold at traders.
+- No more loot spawns in the houses in the sector and no more zombies.
+- The dance animations in the trader have been removed from the tab key and are now only possible at the campfire in Stary.
+- The buy and sell price of the armed Little Bird has been increased.
+- The armed Little Bird now also has Hydra missiles.
+- The traders now directly display the Humanity that is required if the player wants to trade with them and the player has not yet reached Humanity.
+- The boat trader was rebuilt near the parking zone and now has a safe zone.
+- Bases can no longer be built on water.
+- Parking vehicles with gear in the virtual garage no longer costs coins.
+- Vehicles from the virtual garage can now also be spawned on the roof of bases. This requires a special helipad, which is called Helipad (Air Spawn) and can be bought from the trader.
+- If the virtual garage of a service station was inside the plot pole range of a base, the virtual garage of the service station did not work properly.
+- Players can now also maintain their virtual garage via the plot pole, as well as the virtual garages of their base members.
+- Static weapons can no longer be stored in the virtual garage.
+- The messages when checking a corpse's wallet have been revised.
+- When the player receives coins, a sound is now played.
+- Burying corpses now plays a sound.
+- Smoking hemp has been revised and cures pain.
+- Players can now take a dump by right-clicking on the GPS.
+- The coral reef has been added to the map. In addition to fish, sapphires can also be fished in the coral reef.
+- Many new items can now be fished for when fishing.
+- The debug monitor and the GUI got updated.
+- Players can now smoke a water pipe.
+- Combine Magazine has a sound now.
+- Under special circumstances, convoys could not spawn.
+- The option to give coins to other players has been revised and it is now also possible to give all coins directly to one player.
+- The Super Hero only needs 75,000 Humanity and the Elite Trader only 150,000.
