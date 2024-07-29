@@ -1,0 +1,21 @@
+Changelog: v.1.18.01
+
+The following changes have already been added or fixed and are only listed here for completeness:
+
+- The coin sound was too loud.
+- When burying corpses, the coins could be looted several times.
+- When gambling, vehicles won were not spawned in the virtual garage and disappeared completely.
+- Vehicles that were spawned from the virtual garage via air spawn always spawned on the ground.
+- Maintaining the virtual garage of a single player via the plot pole did not work.
+- Ships in the coral reef are now refueled as soon as the fuel gauge is below 10%.
+- The ship dealer now also has a service point.&lt;br/&gt;
+
+The following changes are part of the new update:
+
+- Ships can now be refueled automatically at the fuel station.
+- Automatic refueling of helicopters is now also free of charge.
+- Deleting AIs in the Safe Zone now works correctly again.
+- Vehicles from AI missions no longer have a key. This has been changed so that there are no longer so many duplicate keys in use.
+- Vehicles that are retrieved from the virtual garage no longer spawn exactly on the helipad if there is already another vehicle on the helipad.
+- Vehicles in the Safe Zone can no longer be lifted, towed or untowed if the player does not own the vehicle.
+- Vehicles that could be retrieved from the virtual garage at the fuel station sometimes did not spawn on the helipad. This has been fixed.
