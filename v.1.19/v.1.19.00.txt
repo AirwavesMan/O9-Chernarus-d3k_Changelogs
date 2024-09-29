@@ -1,0 +1,24 @@
+Changelog: v.1.19.00
+
+- A few missing BRDM2 versions have been added to the trader.
+- When removing the newly added buildings, the scroll option now shows the correct name of the building.
+- Metal towers and Concrete Houses can now be removed by right-clicking on the crowbar.
+- The way in which newly added buildings are constructed has changed slightly. The new buildings are now grouped together on different items in the inventory. This means that there is one item with the name Tables and it builds several table versions. The same applies to all other buildings.
+- The offset of many newly added buildings has been corrected.
+- All newly added buildings now also have a preview in the building catalog.
+- A new settings menu has been added to the player menu.
+- Trading items for RP, such as dog tags, is now faster. There is no longer an animation and all items that can be exchanged are now also removed from the backpack.
+- A login camera and a login sound have been added to the game. Both can be switched off via the settings menu.
+- A color correction has been added to the game. This can be switched on or off via the settings menu.
+- The look and sound of the mission notifications have been revised.
+- Every action that grants the player RP now also shows this graphically. This can be switched on and off in the settings menu.
+- The coin sound can now be switched on and off in the settings menu.
+- Players no longer receive -Humanity when slaughtering zombies.
+- Players should no longer have no sound shortly after logging in.
+- A player can now free their own body if it is out of reach, even above the water. You can select this in the player menu under Player actions.
+- The suicide option can now be found under Player Actions in the player menu.
+- One of the loot crates in the sector was sometimes difficult to access if the crate had the large crate model. This has been fixed.
+- If a player is in a parachute, they can now cut it off by pressing the o button.
+- When a player gets out of an aircraft in the air, the parachute that opens can now also be steered.
+- Players can now use the o button to open their vehicles remotely when they are looking at them.
+- If a player is in a parachute, the player now has a speed and altitude display.
