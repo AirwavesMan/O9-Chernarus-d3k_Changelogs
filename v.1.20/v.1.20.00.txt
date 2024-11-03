@@ -1,0 +1,37 @@
+Changelog: v.1.20.00
+
+- Vehicles that are retrieved from the virtual garage by air spawn should no longer explode.
+- Vehicles that are retrieved from the virtual garage should no longer spawn into each other.
+- A special UH1Y M240 version has been added to the trader and can now also be sold.
+- When an AI mission has been completed, all remaining AIs are deleted immediately.
+- The percentage for completing an AI mission has been reduced from 95% to 92%. This should counteract runaway AIs a bit.
+- The temporary protection after leaving the safe zone has been deactivated. It is no longer necessary as this is a PVE server.
+- The animation when claiming a vehicle or changing a key can now be interrupted by movement.
+- Claiming or changing keys for vehicles is now faster.
+- Vehicles should now no longer receive damage when being claimed or changing keys.
+- Vehicles can only be claimed or the key changed if the vehicle has less than 90% damage.
+- Claiming vehicles now also works without errors when dead AIs are in the vehicle.
+- The scroll option of the Halo Spawn no longer appears when the vehicle is locked.
+- The scroll option of the Halo Spawn has been moved to the end of the scroll menu.
+- Players who take the driver's seat in the vehicle from another seat can now also activate Nitro.
+- The option to air spawn in the virtual garage is no longer displayed in the Safe Zone and Fuel Stations.
+- The key name for each vehicle is now also displayed in the virtual garage menu.
+- The AI markers of the convoy AIs have been removed. Only the convoy vehicles are now marked on the map with the number of living AIs. This is a technical change, as there is apparently a maximum number of possible markers in the background of the game.
+- The fuel station bomb should no longer spawn when a player is next to the fuel station.
+- Mines and placeable bombs have been removed from the game and replaced.
+- The convoy loot has been updated slightly.
+- Lighting poles should now also be deleted.
+- Suitcase bombs can now only be exchanged on the black market.
+- Suitcase bombs now earn 1.250 RP when traded in.
+- The parachute at the halo spawn should now open automatically at 60m.
+- The spawn menu now shows why the player cannot spawn in the base or with the party leader.
+- While a player respawns, he should no longer be marked on the map.
+- There is a new VG Fuel Station at north east airfield.
+- The north west airfield has been completely redesigned.
+- The elite and aircraft trader has a new position on the north west airfield.
+- Older AI missions that were not active have been reactivated. Please let me know if there are any problems with these missions.
+- Refueling vehicles with the generator or fuel truck has been deactivated as it is no longer required.
+- The function to set tents on fire has been removed.
+- Aircrafts can now be rotated 90 degrees with the scroll menu.
+- Bicycles, motorcycles and ATVs have been removed from the trader.
+- The parachute can now be opened again for the Halo Jump.
