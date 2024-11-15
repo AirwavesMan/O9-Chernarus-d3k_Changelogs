@@ -1,0 +1,15 @@
+Changelog: v.1.21.00
+
+- When gambling, it was possible that the player received nothing after a win.
+- When exchanging items for RP, the message about the RP received was not correct.
+- The buildings in the trader city Stary can no longer be destroyed.
+- If the sector is finished, all remaining AIs are now also deleted directly.
+- The drone can now also be used in the drone pilot mission.
+- The costs for vehicle ammunition have been completely updated.
+- Vehicles have no more ammunition after buying them, restarting the server and taking them out of the virtual garage.
+- When ammunition is added to vehicles by a service station, only one magazine is added to the vehicle.
+- When rearming vehicles, the ammunition already in the vehicle's weapons is no longer removed.
+- Rearming a weapon from a vehicle now costs exactly the same as the ammunition for this weapon at the trader.
+- The old system for towing and lifting away vehicles was replaced by a new one.
+- In the traders menu for vehicles, you can now see if the vehicle can be upgraded.
+- All weapons available in a vehicle, including newly added weapons, can now be viewed in the trader menu.
