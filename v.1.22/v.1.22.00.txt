@@ -1,0 +1,26 @@
+Changelog: v.1.22.00
+
+- The static MGs on the AI missions have been updated. Please give me feedback if the yellow and red missions are ok in terms of difficulty.
+- The full range of vehicle ammunition can now also be found in a number of events and AI missions.
+- When building, players should no longer be interrupted by the Combat Timer.
+- The safe codes have been removed and every player in the plot pole can now access the safes in the base without a code. With this change, safes can no longer be opened and emptied by hackers.
+- The plot pole can now only be removed if the player has a shovel. This means that the player is always able to rebuild his plot pole.
+- Vehicles with dead AIs can now also be parked in the virtual garage.
+- When parking vehicles out of the virtual garage as an air spawn, vehicles could spawn at an angle if the ground was not flat. This has been fixed.
+- When taking a dumb near a foreign base, taking a dumb could not be completed. This had an effect on all other actions in the game.
+- Players can now display all bases by right-clicking on the GPS. This makes it easier to find a new base position.
+- Giving a blood transfusion to another player is now much faster.
+- Buildings without a plot pole and with at least 60% damage are automatically deleted at the start of a server restart. This should delete the majority of bases that have already expired at the start of a server restart.
+- Several missing loot positions for buildings have been added.
+- The maximum number of loot objects within 200m has been increased. This should reduce the number of buildings that do not spawn loot.
+- Armed convoy vehicles had no ammunition since the last update. This has been fixed.
+- Players now have the scroll option to destroy the tracks of a convoy tank. To do this, the player needs a toolbox and a crowbar.
+- The elevator and all related functions have been revised. It is now easier to build an elevator. There are now guidelines on how to build an elevator in the info menu.
+- The elevator stop is now a glass floor. This means players no longer accidentally fall through the elevator.
+- Vehicles that are not near a base, safe zone or service station after a server restart now have one magazine per weapon as ammunition.
+- When removing the elevator start and elevator stop, the player now receives the building component back.
+- Five new entries have been added to the info menu.
+- When purchasing a vehicle, players now have the option of selecting the key with which the newly purchased vehicle can be opened.
+- When purchasing a vehicle, players now have the option of parking the vehicle directly in the virtual garage.
+- All players who are registered in a plot pole can now also spawn at their plot. Previously, only the owner of the plot was able to spawn at the base.
+- The Over9000 Christmas event runs until the New Year. Find the snowmen on the map and remove them by right-clicking on the shovel.
