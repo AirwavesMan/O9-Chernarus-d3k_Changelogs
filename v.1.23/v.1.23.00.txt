@@ -1,0 +1,14 @@
+Changelog: v.1.23.00
+
+[Added] The spawn menu has a new spawn scene now.
+[Added] Missing vehicle ammo got added to the trader and re-arm option.
+[Added] Missing crossbow parts got added to the trader.
+[Fixed] Sometimes destroyed vehicles had no crashed loot.
+[Fixed] The Fuelstation Bomb event did not respawn after all positions got selected already.
+[Fixed] When interrupting claiming vehicle the vehicle could not be claimed again.
+[Fixed] Helipads could not be removed.
+[Fixed] Giving another player a blood transfusion did not end properly for the player who received the transfusion.
+[Fixed] Sometimes when removing a building the option to remove the building did not disappear when the building got removed already.
+[Fixed] Using the build check while building broke the building action and the building which got built.
+[Fixed] Some water pumps at the traders could not be used.
+[Fixed] Opened gates from the garage door opener could not be closed by hand.
