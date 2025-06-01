@@ -1,0 +1,18 @@
+Changelog: v.1.24.00
+
+[Added] Players now also receive RP for destroying AI vehicles. Players must destroy the vehicle directly. The vehicle must not be destroyed by a subsequent explosion.
+[Added] Sector B can now also appear in Chernogorsk.
+[Added] Bases on sectors must be accessible from the floor to the roof. This has been included as a rule as there are currently a number of bases blocking access to the sector.
+[Changed] The convoy and sector loot has been updated.
+[Changed] A convoy can now have a maximum of 4 vehicles.
+[Changed] The maximum number of convoys that can travel around the map at the same time has been reduced from 6 to 4.
+[Changed] The spawn time of the convoys has been reduced from 30min to 10min.
+[Changed] The maximum number of convoys that could spawn within a server restart has been removed.
+[Changed] The radius in which the sector is activated has been increased slightly.
+[Changed] You can now sell all upgraded backpacks at the trader.
+[Fixed] The UI display for RP and coins gained should no longer overlap, even if more than 2 enemies are killed at once.
+[Fixed] If the player had special characters in his name, he may not have been able to loot his corpse.
+[Fixed] An exploit has been fixed where it was possible to sell a vehicle an infinite number of times.
+[Fixed] When creating vehicles after a server restart, it was possible that vehicles that were above water before the server restart were spawned under water afterwards.
+[Fixed] Convoy AIs now also shoot with the rocket launcher. The supposed reason that the AIs did not shoot with the rocket launcher is not that the AIs had no ammo, but that adding the rocket launcher after the main weapon has been added breaks the AI logic for using the rocket launcher.
+[Fixed] Convoy AIs no longer all get out of the moving vehicle at once during an attack and die in the process.
