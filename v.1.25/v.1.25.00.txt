@@ -1,0 +1,23 @@
+Changelog: v.1.25.00
+
+[Added] The ship graveyard can now be found on the map, where objects can be discovered in the sea with the help of a sonar boat.
+[Added] Solnichniy has now been given some new buildings and a crude oil extraction pump where empty oil barrels can be filled with crude oil.
+[Added] The black market trader now also buys filled crude oil barrels.
+[Changed] The AI system has had a major update.
+- The mission markers on the map no longer have Bandit as their name.
+- Several errors with the difficulty of the AIs have been fixed. This meant that the difficulty level was random for all missions.
+- The loot for all missions got updated.
+- Some missions have been revised.
+- 12 new missions have been added.
+[Changed] Convoy vehicles should no longer break down when a convoy vehicle hits a tree.
+[Changed] Individual convoys should no longer be spread across the map.
+[Changed] The penalty for logging out in combat has been disabled.
+[Changed] The mechanic's truck should no longer spawn in Chernogorsk, as it always exploded in the hanger there.
+[Changed] The sandbag nests from the NEA have been removed to prevent the plane from crashing when the player lands with the plane automatically.
+[Changed] If a convoy vehicle is destroyed, only 40% of the actual content drops.
+[Changed] Player corpses are now only deleted after 50 minutes. Previously it was 40min.
+[Changed] The Water Target boat is now called Salvage Boat with Sonar.
+[Changed] More rockets for different rocket launchers can now be found in the loot.
+[Changed] Deployed vehicles can no longer be parked in the virtual garage.
+[Fixed] Sector helis in Chernogorsk are no longer deleted immediately after creation.
+[Fixed] Under certain circumstances, objects could be duped with the virtual garage.
