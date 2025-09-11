@@ -1,0 +1,21 @@
+Changelog: v.1.26.00
+
+[Added] A new rule for convoys at safe zones has been added.
+[Added] A new rule regarding alt accounts and bases has been added.
+[Added] Players can now also see in the HUD when they need to maintain their base.
+[Added] By right-clicking on the crowbar, the plot pole can now also be removed if it cannot be accessed via the scroll menu.
+[Added] Each player must agree to the server rules once when logging in to the server for the first time in order to continue playing.
+[Added] When adding a marker to the map, the chat now shows in which chat the marker was set.
+[Changed] Players no longer need a radio to receive the message that they have claimed a mission.
+[Changed] The Probeda Dam now has a spawn point.
+[Changed] The radius of the parking zone has been increased so that short-circuiting of vehicles now works correctly.
+[Changed] When a vehicle is hotwired, the key is now permanently removed and not only just until the server is restarted.
+[Changed] When claiming a vehicle, the vehicle no longer disappears temporarily.
+[Changed] The prices of attack helicopters have been revised. While prices have generally been reduced to reflect weapons, the price of the KA60 with missiles has been significantly increased and brought in line with other helicopters.
+[Changed] The Coyote Backpack+ and Large Gun Bag+ can now only be found in the Sector.
+[Changed] Lootable mission vehicles will no longer be deleted within a server period if the player has not claimed them.
+[Changed] Vehicles that have their own key in the inventory will be opened after the server restarts and the key will be removed.
+[Fixed] Displaying all bases on the map via GPS only worked once per server restart.
+[Fixed] By crossing the border to the ship graveyard several times, the search could be started several times with the salvage boat.
+[Fixed] When filling empty oil barrels, the objects being filled were mixed up in the message.
+[Fixed] When a player received coins, the message contained their name and not the name of the player who gave them the coins.
