@@ -1,0 +1,31 @@
+Changelog: v.1.27.00
+
+[Added] Vehicles that are parked on the map and not at bases will be moved to the parking zone. Always use the virtual garage. Additional information has been added to the info menu.
+[Added] Players can now reload all weapons assigned to a vehicle seat at once. There are options to reload weapons 1x, 2x, and 3x.
+[Added] When pulling out of the virtual garage, players can now choose whether the vehicle should spawn with ammunition and multiple magazines. A maximum of 5 is currently possible. The cost of the ammunition is paid directly when pulling out.
+[Changed] Vehicles from AI missions must now always be claimed in order for them to be saved by the server.
+[Changed] The labyrinth loot has been revised and made much more rewarding.
+[Changed] The rule regarding self-defense near the safe zone got updated.
+[Changed] Vehicles left in the sector will be teleported to the parking zone after the server restarts or after the sector respawns.
+[Changed] The runways of the airfields should be free of cannabis fields, ore veins, and ammunition boxes with immediate effect.
+[Changed] After one sector has been completed, another sector spawns immediately if no player is within 1100m spawn area of the sector.
+[Changed] AI missions can no longer be claimed from the Safe Zone.
+[Changed] Upgrading vehicles now only requires the appropriate manual and a toolbox. No other materials are needed.
+[Changed] The time that counts down when a player is unconscious is now a maximum of 10 seconds.
+[Changed] Resetting the ownership of a vehicle in the Safe Zone now also removes the key from the vehicle, so that the vehicle no longer has a key.
+[Changed] The virtual garage menu has been updated.
+[Fixed] Vehicles from AI missions could be duplicated if the player first got into the vehicles and then claimed them.
+[Fixed] Not all weapons owned by a vehicle were displayed in the trade menu and trader Catalogue.
+[Fixed] The option to refill weapons in a vehicle was displayed for every seat in the vehicle and did not update correctly.
+
+The following errors have already been fixed within the last few weeks and months.
+
+[Fixed] Under certain circumstances, it was possible to earn an infinite amount of coins by selling vehicles.
+[Fixed] If a player received coins from another player and then died, they lost the coins they had received.
+[Fixed] Static weapons and elevators outside of a plot pole or in a despawning base were not deleted in a timely manner.
+[Fixed] The First Lady was absent from the President in Town Mission.
+[Fixed] Vehicles that had a key in their inventory were unlocked after the server restart, and the weapon inventory had disappeared.
+[Fixed] Vehicles from AI missions or convoys that had been claimed were back at the location where they had been claimed after the server restart.
+[Fixed] Players who only had special characters in their names and joined the server did not have a name in the game.
+[Fixed] Vehicles from a convoy were indestructible before a server restart.
+[Fixed] Closing all safes and lock boxes via the plot pole did not work.
