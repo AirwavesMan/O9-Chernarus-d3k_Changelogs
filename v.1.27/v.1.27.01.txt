@@ -1,0 +1,13 @@
+Changelog: v.1.27.01
+
+[Changed] When removing the plot pole, build objects are now searched for within a larger radius, so that it is no longer possible to remove the plot pole and then be unable to rebuild it.
+[Changed] The radius for completely deconstructing the base has been increased from +10 to +25.
+[Changed] It is no longer possible to reset the owner of a vehicle if the vehicle was still locked. The owner of a vehicle can only be reset if the vehicle is unlocked.
+[Changed] An addition has been made to the rule for bases in the sector.
+[Changed] The tree that often blocked the maze in the Terror Compound AI mission has been removed.
+[Fixed] When a player received coins from another player, the value of the coins received was displayed unformatted in the chat, making it unreadable for larger values.
+[Fixed] Tall safes, metal containers, security cameras, and several other objects were always deleted after two days without any changes being made to the object.
+[Fixed] Admins who were online on the server were not correctly displayed as online admins in the F8 menu.
+[Fixed] The ammunition costs for vehicles with custom weapons that were reloaded directly in the virtual garage were incorrect.
+[Fixed] The subsequent teleportation of individual convoy vehicles could fail. In the event of a failure, the convoy vehicle fell permanently from the sky.
+[Fixed] If vehicles were equipped with ammunition via the virtual garage, some helicopters and aircraft in the driver's seat had no ammunition.
