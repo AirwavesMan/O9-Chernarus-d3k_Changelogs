@@ -1,0 +1,40 @@
+Changelog: v.1.28.00
+
+[Added] The virtual garage now has a limit on vehicles. The limit is currently 30. Players who have more than 30 vehicles must sell the remaining vehicles. There is no longer any distinction between the different vehicle types.
+[Added] It is now possible to pick up all items from crates, vehicles, building components with gear, and corpses (not player corpses) at once and place them in your backpack until it is full.
+[Added] It is now possible to empty the entire backpack at once. This action works for all vehicles and building components that can carry gear.
+[Added] The rusted Mi17 can now be sold to the Hero Trader.
+[Added] If the player falls out of their boat while on the water, it is now possible to retrieve the boat via the player action menu.
+[Added] The boat trader now has an extra ramp so that players can also access the boathouse.
+[Added] The boat trader now has another helipad so that vehicles other than boats can be parked there from the virtual garage.
+[Added] Signs listing the most recent deaths have been added to each trader zone.
+[Added] 12 kilos of hemp, dog tags, and cigarettes can now be stored in a crate by right-clicking on it.
+[Added] The AC-130A Surprise Package has been added to the Elite Trader.
+[Added] Players can now set up a PBX via the Player Actions menu when they are in the water. The PBX will be deleted within a maximum of one minute after the player has left it.
+[Changed] The starter kit now also includes a shovel.
+[Changed] Trader where dog tags can be exchanged now also accept boxes of dog tags for exchange.
+[Changed] The helipad for spawning boats at the boat trader has been moved closer to the trader so that players no longer have to swim when purchasing a boat.
+[Changed] The menu of the virtual garage, from claiming a vehicle and purchasing a vehicle to selecting keys, has been completely redesigned and should now work better with other interface sizes.
+[Changed] The prices for tools have been increased significantly.
+[Changed] Maintaining the virtual garage repairs all vehicles in the garage and refuels them.
+[Changed] Static weapons can no longer be refueled.
+[Changed] The spawn time for convoys has been reduced from 10 minutes to 5 minutes.
+[Changed] The death board now lists all recent deaths on the server, not just those caused by player vs. player combat.
+[Changed] Reading a newspaper no longer removes it.
+[Changed] The trader catalog now also shows whether a vehicle can be upgraded.
+[Changed] Several aircraft and helicopters are better represented in the trader catalog in terms of size, so that the entire flying object is visible.
+[Changed] Damage to a building component no longer determines whether or not a building component will be refundable upon removal.
+[Changed] The selling prices for vehicles have been significantly revised. The selling price for high-priced vehicles is now approximately 33% of the purchase price. Meanwhile, the selling price for most non-high-priced vehicles is approximately 70%–85% of the purchase price. This makes selling vehicles more rewarding than it was previously. 
+[Changed] When deconstructing the base, equipment in all unlocked objects is now also refunded, so that all unlocked objects no longer need to be cleared out beforehand.
+[Changed] The time required to maintain the virtual garage has been reduced from 30 days to 14 days. With this update, the virtual garage has been maintained once free of charge for all players.
+[Changed] There are no longer duplicate death notifications at the bottom left of the chat.
+[Changed] The message that appears when a player enters a mission vehicle or convoy vehicle has been translated and clarified to state that the vehicle will be deleted when the server restarts and that the player must claim or park the vehicle.
+[Changed] AIs from missions can now also carry items in their backpacks.
+[Changed] Cards can be used to receive a free lottery ticket while playing.
+[Fixed] The German text for "Recover body from water" was not displayed correctly in the player actions menu.
+[Fixed] When deploying vehicles, the temporarily available vehicles could be packed.
+[Fixed] Not all weapons for vehicles were displayed in the trader catalog.
+[Fixed] Not all vehicles, weapons, and items were displayed in the trader catalog. Categories with the same name had the same content.
+[Fixed] When players had a rocket launcher in their backpack, the number of free slots in the backpack was not calculated correctly.
+[Fixed] If several players had used the elevator, the players who had not called the elevator could fall through the elevator stop when the elevator arrived.
+[Fixed] An AI mission could not be claimed if another player was in the safe zone and had already claimed the AI mission.
