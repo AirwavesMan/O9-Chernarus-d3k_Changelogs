@@ -1,0 +1,25 @@
+Changelog: v.1.29.00
+
+[Added] Many new zombies now spawn around buildings.
+[Added] All zombies can now carry special, particularly valuable items, making looting zombies worthwhile again. These include hotwire kits, suitcase bombs, hemp, dog tags, and much more.
+[Added] The Holy Book can now be read.
+[Added] Zombies can now carry backpacks. These backpacks sometimes contain items.
+[Added] All rocket launchers can now also be found in military building loot.
+[Added] The key for a vehicle can now also be deleted using the scroll option.
+[Added] Players who have found the black market can now mark it globally for all other players by looking at the trader and selecting Mark Black Market.
+[Added] Several buildings now have new additional loot positions.
+[Changed] Zombies can now be hidden again.
+[Changed] The zombie limit has been increased.
+[Changed] Players can now access and get into bicycles, helicopters, and other vehicles much faster after deploying them.
+[Changed] Non-military weapons have been removed from the loot tables for military loot.
+[Changed] Toilet houses no longer spawn gems as loot.
+[Changed] Valuable items can spawn in residential and office loot.
+[Changed] The RP for zombies has been increased from 5 to 10 RP.
+[Changed] Zombies can now carry up to 6,000 coins.
+[Changed] AIs now generally have fewer items in their inventory.
+[Changed] The markers for convoys on the map should now update more quickly.
+[Changed] The loot from randomly spawning ammo crates on the map has been reworked.
+[Changed] Erzadern von AI-Missionen sind nun mit dem Vorschlaghammer einfacher abzubauen als Erzadern, die nicht in den AI-Missionen spawnen.
+[Fixed] The maximum equipment slots that can be carried by the Wildcat AH11 and Apache AH1 were not displayed correctly in the trader menu and trader catalog.
+[Fixed] Large items could also spawn on small loot positions.
+[Fixed] Ore veins could spawn on roads.
