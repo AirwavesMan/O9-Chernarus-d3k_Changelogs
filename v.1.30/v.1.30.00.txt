@@ -1,0 +1,33 @@
+Changelog: v.1.30.00
+
+[Added] A menu for claiming convoys has been added to the player menu. The menu can also be opened with i.
+[Added] If players have more than two vehicles at their base, they will now receive a warning when they enter their base.
+[Added] The UAZ SPG Winter can now be sold at Hero Trader.
+[Added] Vehicles can now also be sold directly from the virtual garage. If the player sells a vehicle from the virtual garage and is not in the dealer zone, they only receive 70% of the original sale price.
+[Added] Using the plot pole, all locked vehicles at the base for which the player does not have the key on their belt can now be removed from the base so that they do not block the base.
+[Added] The trader city of Stary now has a pub.
+[Added] The Pchela now has new weaponry.
+[Changed] The Stryker with MK19 and M220 Tow now also has an M240 machine gun.
+[Changed] All previous rules regarding claiming convoys have been updated.
+[Changed] All vehicle prices have been completely revised.
+[Changed] Aggressive convoys are now displayed in red on the map.
+[Changed] Upgraded vehicles can only be sold for more coins than the standard model of the vehicle. The higher the version, the more the different versions are worth.
+[Changed] Static weapons has no longer crashed loot.
+[Changed] The menu for remote control of vehicles has been adapted to the other menus.
+[Changed] When removing a vehicle key, the removal button is only displayed for the key that actually belongs to the vehicle.
+[Changed] The spawn chance of chemlights has been significantly reduced.
+[Changed] Boxes containing C4 and hotwire kits can now be sold to merchants.
+[Changed] The prices for backpacks have been updated. 
+[Changed] After logging in to the server, players can now interact with objects much faster.
+[Changed] No more bases can be built on the sectors. The sectors will be revamped in the coming weeks. All bases still standing on the sector must be removed. This update imposes a building restriction on the entire sector, including existing bases.
+[Changed] The MTVR Bird can no longer be upgraded.
+[Changed] The costs for claiming vehicles, changing keys, and repairs have been updated.
+[Changed] When examining a document, all documents in the inventory are now examined directly.
+[Fixed] Updating the convoy markers on the map was a very slow process.
+[Fixed] The incorrect AK74 TWS model was in the game.
+[Fixed] The warning about the missing add-on: ca_communityconfigurationproject_e_visual_additionalbombmagazines has been fixed.
+[Fixed] The message about the missing entry for the ItemRWood object on construction sites has been fixed.
+[Fixed] When removing a vehicle key, the name of the vehicle was missing from the message at the end.
+[Fixed] The zombie shield at bases only worked once.
+[Fixed] When opening the player menu, the Arma 2 command menu for the status report could also open.
+[Fixed] The incorrect and non-upgradable version of the AAV was in the game.
