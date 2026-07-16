@@ -1,0 +1,88 @@
+Changelog: v.1.31.00
+
+The following changes are already live and were made over the past months:
+
+[Added] Motorcycles can now be purchased at the trader.
+[Added] A new military base near Novy Lug has been added.
+[Added] Several additional fuel stations have been added to the map to provide access to the virtual garage.
+[Added] Some missing weapons and items have been added to the traders.
+[Changed] The sale feature for vehicles in the virtual garage now includes an animation to prevent vehicles from being sold accidentally.
+[Changed] The Pchela-1T now uses S6 missiles.
+[Changed] Several map expansions have been revised.
+[Changed] The traders can now move.
+[Changed] The maximum number of zombies has been significantly reduced.
+[Changed] The military base west of Myshkino has been removed.
+[Changed] Convoys are now claimed for 7 minutes, rather than just 5 minutes.
+[Fixed] Refuelling the vehicles wasn't working properly.
+[Fixed] The trader catalog wouldn't open.
+[Fixed] The player markers for convoys kept disappearing whenever another player marked a convoy.
+[Fixed] The player markers for convoys kept disappearing and reappearing immediately, so the markers were only visible for a brief moment.
+[Fixed] If a player shot a dead convoy AI, they could claim the next convoy to spawn.
+[Fixed] When claiming convoys, it was possible to claim the wrong convoy even though the correct one had been selected in the menu.
+[Fixed] It was no longer possible to claim the convoys once a convoy had been released or destroyed too quickly.
+[Fixed] After a convoy was claimed, it was immediately released again.
+[Fixed] No loot spawned in the gray industrial hangar.
+[Fixed] When selecting a vehicle in the virtual garage, it shouldn't take as long to choose one. To speed up the selection process, players must repark vehicles with a key.
+[Fixed] Vehicles with a lot of cargo could get lost when parking in the virtual garage.
+[Fixed] Vehicles from the virtual garage could be sold multiple times.
+[Fixed] Removing vehicles from the base's radius didn't always work.
+[Fixed] If a player had won a vehicle while playing, the vehicle did not appear in the virtual garage.
+[Fixed] The right-click option for deploying a bicycle, helicopter, or similar vehicle no longer includes a duplicate word in the text.
+[Fixed] Once a vehicle was bought in the virtual garage, all other vehicles bought were also moved to the virtual garage.
+[Fixed] Group members could not access the gear in the vehicle if a player from their group was inside it.
+
+1.31.00 Changes:
+
+[Added] A new key management system has been added. The Info menu includes a section that fully explains the new system.
+[Added] When joining the server, each player receives their own key, which cannot be changed. This key is used as the default key for all actions that require a key. This means that this key is always used automatically when purchasing a vehicle or making a claim.
+[Added] You can now also purchase vehicles without a key. To do this, the player must click its key button in the trade menu and then select “Without Key.”
+[Added] Players can now make a copy of their personal key at any time by right-clicking on the keymakers kit, even if the key has been lost.
+[Added] The virtual garage can now be upgraded. This requires a garage expansion blueprint and 7,500,000 coins. The upgrade adds one vehicle to the garage. There is currently no upper limit on the number of upgrades. This is an endgame upgrade for players who already have everything else.
+[Added] The garage expansion blueprint has been added to the loot and can be found in the following locations: Mechanic Zombies, Mechanic Loot, Document Loot, Vehicle Upgrade Loot, Sector Loot, and AI Mission Bookworms.
+[Added] A new Info menu with several categories has been added to the player menu.
+[Added] Backpacks can now be sold from the vehicle. WARNING: Backpacks that contain items and are still in the vehicle at the time of sale will no longer have any contents after the sale. This cannot be resolved due to a technical limitation.
+[Added] Two clothing items and several missing building objects have been added.
+[Added] Items lying on the ground can now also be packed directly into the backpack.
+[Changed] If a player purchases a vehicle directly for their virtual garage, they no longer need to have an open slot on their tool belt for the vehicle's key.
+[Changed] The truck at the Mechanic Event no longer has a key.
+[Changed] There's only one backpack of loot for the Mechanic Event vehicle.
+[Changed] For the Mechanic Event vehicle, the event marker on the map is now removed immediately after a player enters the vehicle.
+[Changed] Removing the chains from a tank in an AI convoy now puts the convoy into combat.
+[Changed] The option to remove the tracks from a tank in an AI convoy should now be more visible.
+[Changed] The spawn chance for vehicle parts inside buildings has been significantly increased.
+[Changed] The ship graveyard was moved further west so that helicopters from the Cherno sector would not fire on it.
+[Changed] Players now also earn RP when they kill AIs with vehicles. The RP earned is 20% of the original RP.
+[Changed] When the player marks the black market, they receive 75 RP.
+[Changed] Items that grant RP can now be sold directly through the trade menu and no longer need to be traded separately.
+[Changed] The trading menu has been redesigned, and everything is now displayed a little larger. 
+[Changed] Vehicles can now be reloaded with up to 10 magazines via the virtual garage.
+[Changed] Vehicles can now also be reloaded with up to 10 magazines at the fuel station.
+[Changed] Several coin actions now also have a coin sound. 
+[Changed] The zombies' pathfinding has been fundamentally revised and adjusted. Zombies now search for their target more effectively and accurately.
+[Changed] The fuel station for the virtual garage in Balota has been moved directly onto the runway in Balota.
+[Changed] AI corpses now despawn much faster than before. The despawn time has been reduced from 50 to 30 minutes. This change is a necessary performance adjustment, as there are sometimes 600 corpses or more on the server by the time the server restarts.
+[Changed] Sector AIs now despawn immediately upon being killed. 
+[Changed] Sector AIs now grant 30 more RP when killed.
+[Changed] Static weapons have no ammunition after being set up.
+[Changed] Once objects have been built, players can now interact with them more quickly.
+[Fixed] The First Lady in the AI missions no longer remains in her default animation.
+[Fixed] The Mi-17 Medevac RU had no selling price when they were sold from the virtual garage.
+[Fixed] Keys on the server can no longer be assigned twice by chance when a vehicle is purchased.
+[Fixed] Some scroll options were not removed correctly when the player was no longer looking at the object in question.
+[Fixed] If an AI mission involving paratroopers was ended too quickly, an error occurred in which the remaining paratroopers and the helicopter were not properly removed.
+[Fixed] In AI missions, incorrect timing when exiting could result in either winning or losing the mission.
+[Fixed] In the “Fuel Station Bomb” event, the check for nearby players always resulted in an error, so the event could never be completed properly.
+[Fixed] When spawning AI convoys, an error could occur in which the general convoy spawn process would halt because a spawn position for the convoy was missing.
+[Fixed] In some cases, the damage to vehicles was not applied correctly.
+[Fixed] When removing a building component, the error message indicating that another player was nearby was not formatted correctly.
+[Fixed] Players joining the server for the first time did not have to read and confirm the rules until after their second login.
+[Fixed] If a player already had a base, the build check would only indicate that the player had a base, but not whether they could build in another location.
+[Fixed] After a vehicle upgrade, the vehicles shouldn't bounce around as much anymore—or, in the worst case, fly all over the place.
+[Fixed] The Tatra PKT, Stryker M2, and Stryker Mk19 could not be reloaded via the virtual garage.
+[Fixed] The weapons for the Tatra PKT, Stryker M2, and Stryker Mk19 were not correctly recognized in the trade menu, the dealer catalog, and the virtual garage.
+[Fixed] In sector missions, the AIs in the helicopters were not correctly counted toward the total number of AIs, but were subtracted from that total when killed.
+[Fixed] In AI missions with paratroopers, the remaining paratroopers or the helicopter crew were sometimes not counted correctly.
+[Fixed] Helicopters or airplanes could, under certain circumstances, be equipped with nitro.
+[Fixed] When combining magazines, some magazines could disappear.
+
+Please report any performance issues with the update right away. Several critical processes have been adjusted and revised in the background to specifically reduce lag. 
